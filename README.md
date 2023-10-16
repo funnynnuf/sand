@@ -1,7 +1,7 @@
 # Sandboxels
 A falling sand simulation game.
 
-Play at [https://funnynnuf.github.io/sand/](https://funnynnuf.github.io/sand/).
+Play at https://mirrormirrorontheweb.github.io/sand/.
 
 Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
 
